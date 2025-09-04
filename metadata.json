@@ -1,0 +1,5 @@
+{
+  "name": "To-Do App",
+  "description": "A feature-rich To-Do web application built with React and Tailwind CSS. It allows users to add, edit, delete, and filter tasks, and includes a dark/light mode toggle. All data is persisted in the browser's local storage.",
+  "requestFramePermissions": []
+}
